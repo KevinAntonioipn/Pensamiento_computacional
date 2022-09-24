@@ -44,6 +44,7 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
       TU ALGORITMO AQUI  
       
-      
+      ![image](https://user-images.githubusercontent.com/113804716/192121903-16268f74-e61e-4fc7-ab79-659e8ed4d986.png)
+
 
 Ahora llevalos a PSINT
